@@ -27,7 +27,7 @@ pip install docx2pdf
 1. Edit the script `docx_to_pdf.py` and set your folder path:
 
 ```python
-FOLDER_PATH = r"D:\Project\Aali Panah\9-25-2025\Clean Data"
+FOLDER_PATH = r"Your Path"
 ```
 
 2. Run the script:
